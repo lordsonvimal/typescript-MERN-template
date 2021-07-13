@@ -2,3 +2,5 @@
 /public/
 .idea/
 coverage/
+.env
+*.DS_STORE

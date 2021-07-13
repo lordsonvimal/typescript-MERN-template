@@ -1,0 +1,9 @@
+{
+  "restartable": "rs",
+  "ignore": [".git", "node_modules", "public/", "coverage/", "src/client/", "src/server/app.ts"],
+  "watch": ["src/server/", ".env"],
+  "execMap": {
+    "ts": "node -r ts-node/register"
+  },
+  "ext": "ts, json"
+}

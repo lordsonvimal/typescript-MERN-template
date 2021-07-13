@@ -1,2 +1,2 @@
-# React-Typescript-Jest-Template
-Template for React with typescript and jest
+# typescript-MERN-template
+Template for MongoDB, Express, React and Node with typescript

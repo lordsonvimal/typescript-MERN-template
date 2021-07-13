@@ -1,7 +1,7 @@
 {
   // Commented-out options have their default values.
   "include": ["src"],
-  "exclude": ["node_modules/*", "**/*.test.tsx"],
+  "exclude": ["node_modules/*", "**/*.test.tsx", "webpack.config.ts"],
   // "files": [], // A list of relative or absolute file paths to include.
   // "extends": "", // A string containing a path to another configuration file to inherit from.
   // "references": [], // An array of objects `{"path": "./to/dirOrConfig"}` that specifies projects to reference.
